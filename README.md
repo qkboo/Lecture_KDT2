@@ -12,6 +12,8 @@
 - Visual Studio Code 사용, Jupyter Notebook 이해, Markdown 사용
 - 파이썬 기본 : 변수와 객체, 조건문/반복문
 
+링크 [lecture1.md](lectures/lecture1.md)
+
 # 2. 파이썬 이해 및 응용
 
 - 파일 / Module Package
