@@ -9,8 +9,13 @@
 
 ## 강의중 참고
 
-- 폰노이만 구조
-- [메모리·연산·데이터 `원스톱`… KAIST 궁극의 반도체 내놨다](http://www.dt.co.kr/contents.html?article_no=2023031402109931731004)
+1. 폰노이만 구조
+   - [메모리·연산·데이터 `원스톱`… KAIST 궁극의 반도체 내놨다](http://www.dt.co.kr/contents.html?article_no=2023031402109931731004)
+   - 하버드 아키텍처
+
+1. 강의중 ppt 노트
+
+
 
 
 # 2. 개발환경
@@ -25,8 +30,9 @@
 
 # 3. Python
 
+  1. [개발환경](notebooks/1-00개발환경.ipynb)
   1. [JupyterNotebook.ipynb](notebooks/1-01JupyterNotebook.ipynb)
-  1. [Python Basic1](notebooks/1-02Basic_0.ipynb)
-  1. [Python Basic2](notebooks/1-03Basic2.ipynb)
-  2. [Python Sequences](notebooks/1-05Sequence_0.ipynb)
-
+  1. [Getting Started Python 1](notebooks/1-03Basic1_A.ipynb)
+  1. [Getting Started Python 2](notebooks/1-03Basic2.ipynb)
+  1. [Python Sequences](notebooks/1-04Sequence_0.ipynb)
+  1. [Python String Usages](notebooks/1-05Strings-Usages.ipynb)
