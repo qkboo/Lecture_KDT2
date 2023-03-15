@@ -32,7 +32,12 @@
 
   1. [개발환경](notebooks/1-00개발환경.ipynb)
   1. [JupyterNotebook.ipynb](notebooks/1-01JupyterNotebook.ipynb)
-  1. [Getting Started Python 1](notebooks/1-03Basic1_A.ipynb)
-  1. [Getting Started Python 2](notebooks/1-03Basic2.ipynb)
-  1. [Python Sequences](notebooks/1-04Sequence_0.ipynb)
-  1. [Python String Usages](notebooks/1-05Strings-Usages.ipynb)
+  3. [Getting Started Python 1](notebooks/1-03Basic1_A.ipynb)
+  4. [Getting Started Python 2](notebooks/1-03Basic2.ipynb)
+  5. [Python Sequences](notebooks/1-04Sequence_0.ipynb)
+  6. [Python String Usages](notebooks/1-05Strings-Usages.ipynb)
+
+
+# 과제
+
+  1. [lecture1_과제.md](lecture1_과제.md)
