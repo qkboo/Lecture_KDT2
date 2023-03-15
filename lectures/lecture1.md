@@ -13,9 +13,9 @@
    - [메모리·연산·데이터 `원스톱`… KAIST 궁극의 반도체 내놨다](http://www.dt.co.kr/contents.html?article_no=2023031402109931731004)
    - 하버드 아키텍처
 
-1. 강의중 ppt 노트
+1. 강의중 화면 자료
    - [오전 ppt](로그20230315오전.pdf)
-
+   - [conda 가상환경/jupyterlab 설치 및 실행 로그](lecture1_cmd.md)
 
 
 # 2. 개발환경
