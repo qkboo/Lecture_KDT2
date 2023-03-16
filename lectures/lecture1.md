@@ -41,3 +41,4 @@
 # 과제
 
   1. [lecture1_과제.md](lecture1_과제.md)
+  2. [lecture1_과제2.md](lecture1_과제2.md)
