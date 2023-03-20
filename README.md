@@ -17,15 +17,17 @@
 # 2. 파이썬 이해 및 응용
 
 - 파일 / Module Package
-- 객체지향, 클래스, 클래스 상속
-- Function / Deocorator
-- 프로젝트
+- 객체지향, 클래스, 클래스 상속, Function / Deocorator
+- NumPy, Pandas, Matplotlib, Seaborn
+
+
+링크 [lecture2.md](lectures/lecture2.md)
+
 
 # 3. Http네트워크 / 크롤링 / 데이터 처리
 
 - HTTP / HTML / CSS / MIME Type
 - Requests / Beautifulsoup / Selenium
-- NumPy, Pandas, Matplotlib, Seaborn
 
 
 # 4. 데이터 분석 / 텍스트 마이닝
