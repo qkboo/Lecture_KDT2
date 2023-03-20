@@ -44,3 +44,7 @@
   2. [lecture1_과제2.md](lecture1_과제2.md)
   3. [lecture1_과제3.md](lecture1_과제3.md)
 
+
+# 실습
+  1. [3개 입력 숫자 최대/최소 구분](day4_실습_최대최소.png)
+ 
