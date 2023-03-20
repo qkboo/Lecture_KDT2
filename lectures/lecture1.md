@@ -44,6 +44,7 @@
   1. [lecture1_과제.md](lecture1_과제.md)
   2. [lecture1_과제2.md](lecture1_과제2.md)
   3. [lecture1_과제3.md](lecture1_과제3.md)
+  4. [lecture1_day4과제.md](lecture1_day4과제.md)
 
 
 # 실습
