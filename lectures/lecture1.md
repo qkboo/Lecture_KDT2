@@ -16,6 +16,7 @@
 1. 강의중 화면 자료
    - [오전 ppt](로그20230315오전.pdf)
    - [conda 가상환경/jupyterlab 설치 및 실행 로그](lecture1_cmd.md)
+   - [얕은복사/깊은복사 이해](https://wikidocs.net/16038)
 
 
 # 2. 개발환경
