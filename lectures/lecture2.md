@@ -46,3 +46,4 @@ Python 함수 & 파일과 Numpy & Pandas
 
 
 # 과제 및 실습
+1. [day4 (3/21일) 과제](lecture2_과제1.md)
