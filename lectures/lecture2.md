@@ -4,7 +4,7 @@ Python 함수 & 파일과 Numpy & Pandas
 
 1. 함수 [Function.ipynb](notebooks/1-10Function_0.ipynb)
     - lambda & map : https://wikidocs.net/64
-2. Python File: [File-0.ipynb](notebooks/01-17File-0.ipynb)
+2. Python File: [File-0.ipynb](notebooks/1-17File-0.ipynb)
 3. Python Class
     - [Python Class](notebooks/1-11Class_0.ipynb)
 
