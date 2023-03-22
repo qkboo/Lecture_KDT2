@@ -10,7 +10,7 @@
    - Python File: [File-0.ipynb](notebooks/1-17File-0.ipynb)
    - HTTP 이해:  HTTP / HTML / CSS / MIME Type
       - 참고자료: `크롤링참고-HTTP이해(발췌,자바를다루는기술).pdf`
-   - 강의중 노트: [Webcrawling_HTTP_HTML.ipynb](notebooks/데이터크롤링1-00HTTP_HTML.ipynb)
+   - 강의중 노트: [데이터크롤링1-00HTTP_HTML.ipynb](notebooks/데이터크롤링1-00HTTP_HTML.ipynb)
 
 # 2. Python 네트워크 (http)
    - requests 모듈: [데이터크롤링1-02requests.ipynb](notebooks/데이터크롤링1-02requests-0.ipynb)
