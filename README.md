@@ -74,6 +74,11 @@
     - [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
     - [파이썬 통계](https://partrita.github.io/posts/thinkstat2/)
 
+7. Data 분석
+    - [한 권으로 끝내는 <판다스 노트>, Wikidocs](https://wikidocs.net/book/4639)
+    - [Data_Analysis_with_Pandas_Python](https://bitbucket.org/hrojas/learn-pandas)
+    - [Forecasting: Principles and Practice, 한글문서](https://otexts.com/fppkr/)
+
 7. 일반
 
    - 자율주행자동차 발전단계: [자율주행 자동차, 나무위키](https://namu.wiki/w/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8)
