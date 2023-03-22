@@ -4,10 +4,10 @@ Python 함수 & 파일과 Numpy & Pandas
 
 1. 함수 [Function.ipynb](notebooks/1-10Function_0.ipynb)
     - lambda & map : https://wikidocs.net/64
-2. Python File: [File-0.ipynb](notebooks/1-17File-0.ipynb)
-3. Python Class
+2. Python Class
     - [Python Class](notebooks/1-11Class_0.ipynb)
     - 참고: https://wikidocs.net/84
+3. Python File: [File-0.ipynb](notebooks/1-17File-0.ipynb)
 
 4. NumPy 튜토리얼
     - [NumPy-Tutorial.ipynb](notebooks/2-01NumPy1-Tutorial_0.ipynb)
@@ -24,13 +24,15 @@ Python 함수 & 파일과 Numpy & Pandas
     - [Seaborn 소개](notebooks/2-가시화2-Seaborn.ipynb)
     - [Plotly](notebooks/2-가시화3-Plotly.ipynb)
 
-
-<!--
-7. 외부자료 이용
+8. 외부자료 이용
     - [Pandas 외부자료 이용](notebooks/2-Pandas_외부자료.ipynb)
--->
+    - data file: [2-Pandas_외부자료_data.zip](notebooks/2-Pandas_외부자료_data.zip)
 
-6. pandas 참조
+9. 실습
+    - [2-Pandas-연습_튜토리얼_20Q_43.ipynb](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb)
+    - [2-Pandas-연습_튜토리얼_19Q.ipynb](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb)
+
+9. pandas 참조
    - [한 권으로 끝내는 <판다스 노트>, Wikidocs](https://wikidocs.net/book/4639)
    - [Data_Analysis_with_Pandas_Python](https://bitbucket.org/hrojas/learn-pandas)
 
