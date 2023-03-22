@@ -25,12 +25,12 @@ Python 함수 & 파일과 Numpy & Pandas
     - [Plotly](notebooks/2-가시화3-Plotly.ipynb)
 
 8. 외부자료 이용
-    - [Pandas 외부자료 이용](notebooks/2-Pandas_외부자료.ipynb)
+    - [Pandas 외부자료 이용](notebooks/2-Pandas_외부자료.ipynb)
     - data file: [2-Pandas_외부자료_data.zip](notebooks/2-Pandas_외부자료_data.zip)
 
 9. 실습
+    - [2-Pandas-연습_튜토리얼_20Q.ipynb](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb)
     - [2-Pandas-연습_튜토리얼_20Q_43.ipynb](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb)
-    - [2-Pandas-연습_튜토리얼_19Q.ipynb](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb)
 
 9. pandas 참조
    - [한 권으로 끝내는 <판다스 노트>, Wikidocs](https://wikidocs.net/book/4639)
@@ -48,4 +48,5 @@ Python 함수 & 파일과 Numpy & Pandas
 
 
 # 과제 및 실습
-1. [day4 (3/21일) 과제](lecture2_과제1.md)
+1. [day5 (3/21일) 과제](lecture2_과제1.md)
+1. [day6 (3/22일) 과제]()
