@@ -54,5 +54,5 @@ Python 함수 & 파일과 Numpy & Pandas
 1. [day5 (3/21일) 과제](lecture2_과제1.md)
 1. [day6 (3/22일) 과제](lecture2-day6-과제.md)
     
-    - [2-Pandas-연습_튜토리얼_20Q.ipynb](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb)
+    - [2-Pandas-연습_튜토리얼_20Q.ipynb](notebooks/2-Pandas-연습_튜토리얼_19Q.ipynb)
     - [2-Pandas-연습_튜토리얼_20Q_43.ipynb](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb)
