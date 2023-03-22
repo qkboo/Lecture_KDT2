@@ -12,8 +12,8 @@
    - 강의중 노트: [Webcrawling_HTTP_HTML.ipynb](notebooks/데이터크롤링1-00HTTP_HTML.ipynb)
 
 # 2. Python 네트워크 (http)
-   - requests 모듈: [데이터크롤링1-02requests.ipynb](notebooks/데이터크롤링1-02requests.ipynb)
-   - Beautifulsoup 모듈: [데이터크롤링1-03BS4_Start.ipynb](notebooks/데이터크롤링1-03BS4_Start.ipynb)
+   - requests 모듈: [데이터크롤링1-02requests.ipynb](notebooks/데이터크롤링1-02requests-0.ipynb)
+   - Beautifulsoup 모듈: [데이터크롤링1-03BS4_Start.ipynb](notebooks/데이터크롤링1-03BS4_Start-0.ipynb)
 
 # 3. 파일 저장
 
