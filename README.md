@@ -76,6 +76,7 @@
 
 7. Data 분석
     - [한 권으로 끝내는 <판다스 노트>, Wikidocs](https://wikidocs.net/book/4639)
+    - [파이썬으로 데이터 시각화 하기, Wikidocs](https://wikidocs.net/book/5011)
     - [Data_Analysis_with_Pandas_Python](https://bitbucket.org/hrojas/learn-pandas)
     - [Forecasting: Principles and Practice, 한글문서](https://otexts.com/fppkr/)
 
