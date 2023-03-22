@@ -27,15 +27,12 @@
 # 3. Http네트워크 / 크롤링 / 데이터 처리
 
 - HTTP / HTML / CSS / MIME Type
-- Requests / Beautifulsoup / Selenium
+- Requests / Beautifulsoup / Selenium 이용 크롤링
+- Wordcloud
+
+링크 [lecture3.md](lectures/lecture3.md)
 
 
-# 4. 데이터 분석 / 텍스트 마이닝
-
-- NumPy, Pandas, Matplotlib, Seaborn
-- 공공데이터 구축
-- 공공데이터 분석
-- 공공데이터 활용 프로젝트 수행
 
 ---
 
