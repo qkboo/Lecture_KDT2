@@ -50,6 +50,7 @@ Python 함수 & 파일과 Numpy & Pandas
     - https://lewisxyz000.tistory.com/35
 3. 모듈과 패키지 : https://wikidocs.net/15545
 4. 함수/클래스 데코레이션 https://wikidocs.net/84429
+5. 산점도 [https://otexts.com/fppkr/graphics-scatterplots.html]
 
 
 # 과제 및 실습
