@@ -7,6 +7,7 @@
 
 
 # 1. Web 기본
+   - Python File: [File-0.ipynb](notebooks/1-17File-0.ipynb)
    - HTTP 이해:  HTTP / HTML / CSS / MIME Type
       - 참고자료: `크롤링참고-HTTP이해(발췌,자바를다루는기술).pdf`
    - 강의중 노트: [Webcrawling_HTTP_HTML.ipynb](notebooks/데이터크롤링1-00HTTP_HTML.ipynb)
