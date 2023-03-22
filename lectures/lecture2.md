@@ -15,8 +15,15 @@ Python 함수 & 파일과 Numpy & Pandas
 
 5. [Pandas 기본-Series](notebooks/2-04Pandas_Series-0.ipynb)
 6. [Pandas 기본-DataFrame](notebooks/2-05Pandas_DataFrame-0.ipynb)
+
+    pandas 참조
+    
     - Pandas Series: https://wikidocs.net/4364
     - Pandas Dataframe: https://wikidocs.net/4366
+   - [한 권으로 끝내는 <판다스 노트>, Wikidocs](https://wikidocs.net/book/4639)
+        - 강의중 실습: [lecture2_day6_한권실습.ipynb](notebooks/lecture2_day6_한권실습.ipynb)
+   - [Data_Analysis_with_Pandas_Python](https://bitbucket.org/hrojas/learn-pandas)
+
 
 7. 시각화 도구
     - [가시화 소개](notebooks/2-가시화0-소개.ipynb)
@@ -32,9 +39,7 @@ Python 함수 & 파일과 Numpy & Pandas
     - [2-Pandas-연습_튜토리얼_20Q.ipynb](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb)
     - [2-Pandas-연습_튜토리얼_20Q_43.ipynb](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb)
 
-9. pandas 참조
-   - [한 권으로 끝내는 <판다스 노트>, Wikidocs](https://wikidocs.net/book/4639)
-   - [Data_Analysis_with_Pandas_Python](https://bitbucket.org/hrojas/learn-pandas)
+
 
 
 # 강의중 참고
