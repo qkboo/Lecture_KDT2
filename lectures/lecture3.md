@@ -16,7 +16,7 @@
    - requests 모듈: [데이터크롤링1-02requests.ipynb](notebooks/데이터크롤링1-02requests-0.ipynb)
    - Beautifulsoup 모듈: [데이터크롤링1-03BS4_Start.ipynb](notebooks/데이터크롤링1-03BS4_Start-0.ipynb)
 
-# 3. 파일 저장
+# 4. 파일 저장
 
 CSV 파일 읽고/쓰기:
    - https://docs.python.org/ko/3/library/csv.html
@@ -27,6 +27,13 @@ CSV 파일 읽고/쓰기:
 JSON 파일 읽고/쓰기:
    - https://wikidocs.net/67980 
    - json 쓰기: https://wikidocs.net/126088
+
+
+
+# 3. Selenium
+   - [데이터크롤링5-Selenium1-start_0.ipynb](notebooks/데이터크롤링5-Selenium1-start_0.ipynb)
+   - [데이터크롤링5-ex유튜브0.ipynb](notebooks/데이터크롤링5-ex유튜브0.ipynb)
+
 
 # "실습": 네이버 상영자/예정작 크롤링 결과 csv 저장
 
