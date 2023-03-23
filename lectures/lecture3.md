@@ -32,7 +32,7 @@ JSON 파일 읽고/쓰기:
 
 # 3. Selenium
    - [데이터크롤링5-Selenium1-start_0.ipynb](notebooks/데이터크롤링5-Selenium1-start_0.ipynb)
-   - [데이터크롤링5-ex유튜브0.ipynb](notebooks/데이터크롤링5-ex유튜브0.ipynb)
+   - [데이터크롤링5-ex유튜브-A.ipynb](notebooks/데이터크롤링5-ex유튜브-A.ipynb)
 
 # 과제
    - [lecture3_day7_과제.md](lecture3_day7_과제.md)
