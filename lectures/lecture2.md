@@ -56,3 +56,4 @@ Python 함수 & 파일과 Numpy & Pandas
     
     - [2-Pandas-연습_튜토리얼_20Q.ipynb](notebooks/2-Pandas-연습_튜토리얼_19Q.ipynb)
     - [2-Pandas-연습_튜토리얼_20Q_43.ipynb](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb)
+    - 정답 [2-Pandas-연습_튜토리얼_01_43_A.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43_A.ipynb)
